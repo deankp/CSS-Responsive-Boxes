@@ -1,10 +1,20 @@
-* {
+/* {
   border: 1px solid grey;
-}
+}*/
 
 body {
   background: papayawhip;
   text-align: center;
+}
+
+header {
+  background-color: lightgray;
+  border: 1px solid grey;
+}
+
+footer {
+  border: 1px solid grey;
+  background-color: lightgray;
 }
 
 .container {
